@@ -1,0 +1,15 @@
+                                                                  JAVA NOTES
+ 
+
+
+1. to take input from the user we have to use (SCANNER CLASS)
+    
+      import java.util.Scanner;
+      Scanner sd(here sd is the object of the scanner class) = new Scanner(system.in);
+      
+      here different inputs are there for different data types->
+         
+           int age = sd.nextInt();
+           float age = sd.nextInt();
+           String name = sd.nextLine();
+

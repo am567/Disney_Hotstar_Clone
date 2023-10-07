@@ -1,0 +1,50 @@
+                                                                  	DSA QUESTIONS
+
+
+1.  decimal to binary
+2.  binary to decimal
+3.  reverse integer
+4.  power of two
+5.  compliment of integer
+6.  find unique element 
+7.  unique no of occurences (LEETCODE) -> not completed 
+8.  duplicates in an array
+9.  array intersection  
+10.  pair sum -> not completed 
+11. reverse the array using stl 
+12. merge sorted array ->  bachha hua h y question 
+13. move zeroes to end  ->  
+
+                                                        CHAR ARRAYS[STRING]
+
+1.  reverse the string 
+2. 
+
+                                                         2DARRAYS(TWO DIMENSIONAL ARRAYS)
+
+1. linear search in 2d array
+2. row wise sum 
+3. largest row sum 
+4. wave print 2d array
+5. binary search in 2d array(leetcode)
+6. spiral matrix (leetcode)
+
+
+
+                                                          MATHS(NUMBER THEORY)
+
+1. prime number(seive of eratosthenes)
+2. 
+
+
+
+
+
+
+                                                           RECURSION
+
+1. fibonacci
+2. count numbers(tail recursion and head recursion both)
+3. source and destination
+
+
